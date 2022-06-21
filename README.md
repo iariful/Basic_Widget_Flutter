@@ -4,7 +4,7 @@
 <img src="screenshots/badges/Flutter-3.svg" height="28px" />&nbsp;&nbsp;
 <img src="screenshots/badges/dart-null_safety-blue.svg" height="28px"/>
 
-# Widget of The Day
+# Basic Widget flutter
 
 <img align="right" src="assets/playstore.png" height="200"></img>
 Introduction to flutter widgets: This repo will teach you some of the common widgets that are available in flutter SDK, & shows you how to use them for your UI design.<br>
